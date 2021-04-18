@@ -1,3 +1,4 @@
+# Linear Algebra Notes
 
 Question: What is the definition of the centered data matrix and the sample covariance matrix?
 
